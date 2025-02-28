@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"GenericStack"},{"p":"<Unnamed>","l":"StackEmptyException"},{"p":"<Unnamed>","l":"StackFullException"},{"p":"<Unnamed>","l":"StackTest"}];updateSearchResults();
