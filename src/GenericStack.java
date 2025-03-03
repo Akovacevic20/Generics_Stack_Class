@@ -75,7 +75,7 @@ public class GenericStack<T> {	//List as Array T Type not specified = parameter 
     // view top element without removing
     /**
      * Returns the top element without removing it from the stack.
-     *
+     *top is always the one that has been added last
      * @return The top element of the stack.
      * @throws StackEmptyException If the stack is empty.
      */
@@ -87,7 +87,7 @@ public class GenericStack<T> {	//List as Array T Type not specified = parameter 
     }
 
 
-    //Furthermore, the class should provide a method list
+    //Furthermore, the class should provide method list
     //all elements of stack into string separated by ;
 
     // Method to list all stack elements as a ;-separated string
